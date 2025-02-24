@@ -14,7 +14,7 @@ Basic knowledge of Python and an OpenAI API key is required. Obtain your API key
 - **Summary and Analysis:** Summarize transcripts and extract insights using GPT-4 in `sentiment_analysis.py`.  
 - **Key Points and Action Items:** Identify crucial points and tasks using `sentiment_analysis.py`.  
 - **Generate Meeting Minutes:** Format and compile insights into minutes using `meeting_minutes.py`.  
-- **Export to Word Document:** Save results as a Word document using `save_as_docx.py`.  
+- **Export to Word Document:** Save results as a Word document using `save_to_docx.py`.  
 
 **Optimization and Further Development**  
 - Enhance Whisper ASR's accuracy by fine-tuning with custom datasets.  
